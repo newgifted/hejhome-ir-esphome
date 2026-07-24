@@ -1,4 +1,4 @@
-# 🚀 헤이홈(Hejhome) IR 블래스터 무납땜 ESPHome 플래싱 가이드
+# 🚀 헤이홈(Hejhome) IR 블래스터 ESPHome 플래싱 가이드
 
 Tuya 기반의 **헤이홈(Hejhome) 스마트 리모컨(IR 블래스터)** 기기를 납땜 없이 ESPHome으로 플래싱하여 홈어시스턴트(Home Assistant)에 완벽한 로컬로 연동하는 방법입니다.
 
