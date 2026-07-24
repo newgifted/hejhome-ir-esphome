@@ -1,6 +1,6 @@
-# 🚀 헤이홈(Hejhome) IR 블래스터 ESPHome 플래싱 가이드
+# 🚀 헤이홈(Hejhome) 스마트 리모 허브 (IR 블래스터, GKW-IR021) ESPHome 플래싱 가이드
 
-Tuya 기반의 **헤이홈(Hejhome) 스마트 리모컨(IR 블래스터)** 기기를 납땜 없이 ESPHome으로 플래싱하여 홈어시스턴트(Home Assistant)에 완벽한 로컬로 연동하는 방법입니다.
+Tuya 기반의 **헤이홈(Hejhome) 스마트 리모컨 허브(IR 블래스터, 모델명: GKW-IR021)** 기기를 ESPHome으로 플래싱하여 홈어시스턴트(Home Assistant)에 완벽한 로컬로 연동하는 방법입니다.
 
 **기판의 RX/TX 핀이 마이크로 USB 포트의 데이터 핀(D+, D-)과 30옴 저항으로 다이렉트 연결되어** 있습니다. 
 
